@@ -1,0 +1,15 @@
+GET localhost:8080/get?arg1=value1
+
+a=7&b=8
+
+###
+
+POST localhost:8080/post?arg1=value1
+
+a=7&b=8
+
+###
+
+PATCH http://httpbin.org/patch?arg1=value1
+
+ciaoluca
